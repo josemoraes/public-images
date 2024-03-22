@@ -1,7 +1,6 @@
 
 # Diagrama utilizado em publicação no TabNews
 ```mermaid
-%%{init: {'theme':'neutral'}}%%
 quadrantChart
     title Senior: Tempo x Experiências
     x-axis "abaixo de 5 anos" --> "igual ou superior à 5 anos"
