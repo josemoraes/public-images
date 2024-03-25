@@ -1,5 +1,5 @@
 
-# Diagrama utilizado em publicação no TabNews
+# Você é Senior? parte 02
 ```mermaid
 quadrantChart
     title Senior: Tempo x Experiências
@@ -14,3 +14,11 @@ quadrantChart
     Juninho: [0.25, 0.25]
     Felipinho: [0.25, 0.75]
 ```
+
+# Conheça esta técnica avançada de NodeJS
+
+![Sem técnica](./tabnews/tabnews-02-01.png)
+
+![Com batching](./tabnews/tabnews-02-02.png)
+
+![Com batching e caching](./tabnews/tabnews-02-03.png)
